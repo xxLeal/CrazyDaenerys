@@ -9,6 +9,12 @@ body {
 	background-size: 100%;
 }
 
+legend {
+	font-size: 25px;
+	color: #ccFFcc;
+    background-color: rgb(139,0,0);
+}
+
 
 body {
  background-image: url(Dany.png);
@@ -17,4 +23,13 @@ body {
  height: 100%;
  position: absolute;
 }
-a:hover { color: rgb(255,255,100); }
+
+#name {
+	font-size: 25px;
+	color: #FFFFcc;
+	
+}
+
+#name:hover { color: rgb(204,255,204);
+			  background-color:  rgb(139,0,0)} */
+
